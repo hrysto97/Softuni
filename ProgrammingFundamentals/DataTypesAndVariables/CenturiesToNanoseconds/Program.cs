@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 
 namespace CenturiesToNanoseconds
 {
@@ -14,7 +15,7 @@ namespace CenturiesToNanoseconds
             long seconds = minutes * 60;
             long milliseconds = seconds * 1000;
             long microseconds = milliseconds * 1000;
-             nanoseconds = microseconds * 1000;
+            BigInteger nanoseconds = microseconds * 1000;
 
             Console.WriteLine($"{centuries} centuries = {years} years" +
                 $" = {days} days = {hours} hours = {minutes} minutes = " +
