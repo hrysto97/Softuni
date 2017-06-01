@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesAndVariables", "DataTypesAndVariables\DataTypesAndVariables.csproj", "{EE6BCABE-A79C-4EED-BE0C-6465B358130C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.PracticeIntegerNumbers", "DataTypesAndVariables\1.PracticeIntegerNumbers.csproj", "{EE6BCABE-A79C-4EED-BE0C-6465B358130C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.PracticeFloatingPointNumbers", "2.PracticeFloatingPointNumbers\2.PracticeFloatingPointNumbers.csproj", "{7D3DE602-7AE3-4216-B368-74F9E6DD8FAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EE6BCABE-A79C-4EED-BE0C-6465B358130C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE6BCABE-A79C-4EED-BE0C-6465B358130C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE6BCABE-A79C-4EED-BE0C-6465B358130C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3DE602-7AE3-4216-B368-74F9E6DD8FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3DE602-7AE3-4216-B368-74F9E6DD8FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3DE602-7AE3-4216-B368-74F9E6DD8FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3DE602-7AE3-4216-B368-74F9E6DD8FAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
